@@ -6,7 +6,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 2. [Akuisisi bahan pustaka di Perpustakaan MAN 2 Hulu Sungai Utara](ebook/Akuisisi bahan pustaka di Perpustakaan MAN 2 Hulu Sungai Utara.pdf)
 3. [Comparing generative artificial intelligence tools to voice assistants using](ebook/Comparing generative artificial intelligence tools to voice assistants using.pdf)
 4. [Design and implementation of an](ebook/Design and implementation of an.pdf)
-5. [Mengenal Sistem Informasi Manajemen Dakwah (Pengertian Sistem, Karakteristik](ebook/Mengenal Sistem Informasi Manajemen Dakwah (Pengertian Sistem, Karakteristik.pdf)
+5. [Mengenal Sistem Informasi Manajemen Dakwah](ebook/Mengenal Sistem Informasi Manajemen Dakwah.pdf)
 6. [Pengelolaan Keuangan Perpustakaan dalam Mendukung Era Digitalisasi](ebook/Pengelolaan Keuangan Perpustakaan dalam Mendukung Era Digitalisasi.pdf)
 7. [PERAN TEKNOLOGI INFORMASI DAN KOMUNIKASI DALAM](ebook/PERAN TEKNOLOGI INFORMASI DAN KOMUNIKASI DALAM.pdf)
 8. [Recall dan Precision Pada Sistem Temu Kembali Informasi Online Public](ebook/Recall dan Precision Pada Sistem Temu Kembali Informasi Online Public.pdf)
