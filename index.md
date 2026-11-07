@@ -13,5 +13,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 9. [STRATEGI MANAJEMEN PERPUSTAKAAN DALAM MENGHADAPI](ebook/STRATEGI MANAJEMEN PERPUSTAKAAN DALAM MENGHADAPI.pdf)
 10. [The impact of smartphone usage frequency on university students'](ebook/The impact of smartphone usage frequency on university students'.pdf)
 11. [What is Archival Theory and Why is it Important](ebook/What is Archival Theory and Why is it Important.pdf)
+12. [Nadhina Fitri Yusup_053_Resume UGC](ebook/Nadhina Fitri Yusup_053_Resume UGC.pdf)
 ---
 *Powered by GitHub Pages*
